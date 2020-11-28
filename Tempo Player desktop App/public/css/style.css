@@ -1,0 +1,58 @@
+body {
+  font-family: "Roboto", sans-serif;
+  height: 100vh;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #f2ccb6;
+  color: #591515;
+}
+
+.adpt-h {
+  height: 100%;
+}
+
+.adpt-w {
+  width: 100%;
+}
+
+.rmv-padding {
+  padding: 0;
+}
+
+.block-div-heading {
+  height: 40%;
+  padding: 0;
+  font-size: 3rem;
+}
+
+.block-div-text {
+  height: 20%;
+  padding: 0;
+}
+
+.text-size {
+  font-size: 2.8rem;
+  background-color: #d4b4a2;
+}
+
+.arrow-size {
+  font-size: 1.5rem;
+  color: #d97b66;
+}
+
+.block-div-button {
+  height: 40%;
+  padding: 0;
+  font-size: 3.5rem;
+}
+
+.btn-hvr:hover {
+  color: #882727;
+  font-size: 3.7rem;
+}
+
+.arrow-hvr:hover {
+  color: #882727;
+  font-size: 1.7rem;
+}

@@ -1,0 +1,16 @@
+{
+  "name": "tempo-player",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-packager . --out=executable --platform=win32 --arch=x64 --icon=public/images/icon.ico"
+  },
+  "author": "subrata biswas",
+  "license": "ISC",
+  "devDependencies": {
+    "electron-nightly": "^13.0.0-nightly.20201119"
+  },
+  "dependencies": {}
+}
